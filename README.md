@@ -1,1 +1,1 @@
-# video-streaming-website
+aims to provide users with a seamless and immersive movie streaming experience. The website will feature a vast library of movies across various genres, including action, drama, comedy, thriller, and more. Users will be able to browse, search, and stream their favorite movies on any device.
